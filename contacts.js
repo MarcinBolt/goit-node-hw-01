@@ -65,7 +65,7 @@ const removeContact = async contactId => {
     const deletedContacts = contacts.filter(c => c.id === contactId);
     console.log(`Deleted Contact details:`);
     console.table(deletedContacts);
-    console.log(`Contacts list after removed contact with ID: ${contactId}`);
+    console.log(`Contacts list after removing contact with ID: ${contactId}`);
     fs.writeFile(contactsPath, JSON.stringify(filteredContacts));
     console.table(filteredContacts);
     console.log(`Contacts list also updated in contacts.json file.`);
