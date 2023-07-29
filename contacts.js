@@ -2,8 +2,6 @@ import fs from 'fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'url';
 import { nanoid } from 'nanoid';
-// import { readline } from 'readline';
-// const readline = require('readline');
 import * as readline from 'node:readline/promises';
 import { stdin as input, stdout as output } from 'node:process';
 
