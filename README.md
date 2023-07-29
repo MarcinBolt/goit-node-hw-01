@@ -7,12 +7,12 @@ action list: https://raw.githubusercontent.com/MarcinBolt/goit-node-hw-01/main/s
 action get: https://raw.githubusercontent.com/MarcinBolt/goit-node-hw-01/main/screenshots/action%20get.jpg
 action add: https://raw.githubusercontent.com/MarcinBolt/goit-node-hw-01/main/screenshots/action%20add.jpg
 action remove: https://raw.githubusercontent.com/MarcinBolt/goit-node-hw-01/main/screenshots/action%20remove.jpg
+
+
 # Instructions:
-#To get and display the entire list of contacts in the form of a table (console.table)
+# To get and display the entire list of contacts in the form of a table (console.table)
 
 node index.js --action list 
-
-(https://raw.githubusercontent.com/MarcinBolt/goit-node-hw-01/main/screenshots/action%20list.jpg)
 
 # To get contact by id = 05olLMgyVQdWRwgKfg5J6
 
