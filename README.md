@@ -1,4 +1,4 @@
-#goit-node-hw-01
+# goit-node-hw-01
 
 #node, #nodemon, #console, #bash, #commander, #nanoid #async-await
 
